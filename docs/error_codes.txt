@@ -1,0 +1,8 @@
+0   invalid command
+1   SD card initiation failed
+2   invalid arguments
+3   SD card not inserted
+4   file not found
+20  validation failed
+21  invalid frame
+250 undefined error
